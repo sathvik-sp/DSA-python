@@ -1,5 +1,3 @@
----
-
 ### 🧾 `append` Method - Add to End of Linked List
 
 ```python
