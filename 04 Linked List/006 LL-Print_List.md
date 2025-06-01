@@ -1,5 +1,3 @@
----
-
 ### 🧾 `print_list` Method - Linked List Traversal
 
 ```python
